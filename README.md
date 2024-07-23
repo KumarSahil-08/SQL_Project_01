@@ -23,8 +23,8 @@ For my deep dive into the data scientist job market, I harnessed the power of se
 # The Analysis
 Each query for this project aimed to investigate specific aspects of the data science job market. Here’s how I approached each question:
 
-### 1. Top Paying Data Analyst Jobs
-To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high-paying opportunities in the field.
+### 1. Top Paying Data Jobs
+To identify the highest-paying roles, I filtered data  positions by average yearly salary and location. This query highlights the high-paying opportunities in the field.
 
 ```sql
 
